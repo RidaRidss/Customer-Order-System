@@ -15,5 +15,6 @@
 ## Order Saving strategies
 
 ***In Your Local Database through sqlite***
-***sync with All Of Your googlespreadsheets*** 
+***sync with All Of Your googlespreadsheets like this : <br> https://docs.google.com/spreadsheets/d/1c93oqj0ROd1mCC0lIoc05Y5sWLvRLlJ0en9dZbq1V60/edit?usp=sharing 
+
 
